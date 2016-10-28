@@ -1,0 +1,13 @@
+{
+  "name": "ctrlaltdel-api",
+  "version": "1.0.2",
+  "main": "api.js",
+  "description": "An API to get a Ctrl+Alt+Del comic for a given date.",
+  "author": "Alex Sopinka",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "cheerio": "^0.22.0",
+    "request": "^2.76.0"
+  }
+}
